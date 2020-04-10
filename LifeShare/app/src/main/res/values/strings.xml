@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name" translatable="false">LIFESHARE</string>
+    <string name="btn1">LOGIN</string>
+    <string name="signup_btn">SIGN UP</string>
+    <string name="edit_btn">SUBMIT</string>
+    <string name="textviewsignup">"Don't have an account ? CLICK HERE"</string>
+    <string name="textviewsignin">"Already have an account ? CLICK HERE"</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="bloodGroups">
+        <item>O+</item>
+        <item>O-</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+    </string-array>
+
+
+    <string-array name="lastDonated">
+        <item>Never</item>
+        <item>1 Month Ago</item>
+        <item>2 Month Ago</item>
+        <item>3 Month Ago</item>
+        <item>4 Month Ago</item>
+        <item>5 Month Ago</item>
+        <item>6 Month Ago</item>
+        <item>7 Month Ago</item>
+        <item>8 Month Ago</item>
+        <item>9 Month Ago</item>
+        <item>10 Month Ago</item>
+        <item>11 Month Ago</item>
+        <item>12 Month Ago</item>
+        <item>More than an year</item>
+    </string-array>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="title_activity_for_blank_screen">ForBlankScreen</string>
+
+</resources>

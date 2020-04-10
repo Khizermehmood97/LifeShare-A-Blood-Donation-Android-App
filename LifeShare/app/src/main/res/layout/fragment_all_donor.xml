@@ -1,0 +1,126 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.osama.lifeshare.AllDonor">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:text="ALL DONORS"
+        android:textColor="@color/colorNavHeader"
+        android:textAppearance="@style/TextAppearance.AppCompat.Title"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:text="Name : Asad Ullah"
+        android:layout_marginLeft="15dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="130dp"
+        android:text="Blood Group : AB-"
+        android:layout_marginLeft="15dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="160dp"
+        android:text="Phone Number : 123456789"
+        android:layout_marginLeft="15dp"></TextView>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="210dp"
+        android:text="Name : Riayan"
+        android:layout_marginLeft="15dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="240dp"
+        android:text="Blood Group : A+"
+        android:layout_marginLeft="15dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="270dp"
+        android:text="Phone Number : 0214507744"
+        android:layout_marginLeft="15dp"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="320dp"
+        android:text="Name : Khizer"
+        android:layout_marginLeft="15dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="350dp"
+        android:text="Blood Group : B+"
+        android:layout_marginLeft="15dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="380dp"
+        android:text="Phone Number : 1234566789"
+        android:layout_marginLeft="15dp"></TextView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="430dp"
+        android:text="Name : Salman"
+        android:layout_marginLeft="15dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="460dp"
+        android:text="Blood Group : A+"
+        android:layout_marginLeft="15dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="490dp"
+        android:text="Phone Number : 123456789"
+        android:layout_marginLeft="15dp"></TextView>
+
+
+      <android.support.v7.widget.RecyclerView
+          android:id="@+id/Recycler_view"
+          android:layout_width="0dp"
+          android:layout_height="0dp"
+          android:layout_marginTop="40dp"  />
+
+    <!--  <Button
+          android:id="@+id/button3"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+
+
+          android:text="Button" />
+
+  -->
+</RelativeLayout>
