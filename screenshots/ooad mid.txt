@@ -1,0 +1,17 @@
+https://www.uml-diagrams.org/class-diagrams-overview.html
+https://www1.in.tum.de/lehrstuhl_1/files/oose_solutions.pdf
+http://etutorials.org/Programming/UML/Chapter+6.+Class+Diagrams+Advanced+Concepts/Parameterized+Class/
+https://www.youtube.com/watch?v=sv6z9f_hU0E&t=0s&list=PLcWfHb44WEkqI1qVsJK8KsRLO7Vmzwy4N&index=33
+https://www.youtube.com/watch?v=nH973Ku_awA
+https://www.youtube.com/watch?v=TAfccACvjXw
+http://www.nyu.edu/classes/jcf/g22.2440-001_sp09/slides/session7/g22_2440_001_c77.pdf
+
+
+https://www.smartdraw.com/activity-diagram/
+https://www.tutorialspoint.com/uml/uml_activity_diagram.htm
+https://www.lucidchart.com/pages/uml-activity-diagram
+https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-activity-diagram/
+http://etutorials.org/Programming/UML/Chapter+9.+Activity+Diagrams/
+
+
+https://www.youtube.com/watch?v=UbSxLpHD8tM
